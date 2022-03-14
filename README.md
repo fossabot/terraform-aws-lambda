@@ -8,6 +8,8 @@ Creates the following resources:
 * Cloudwatch Logs group
 
 ## Usage
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fshmileee%2Fterraform-aws-lambda.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fshmileee%2Fterraform-aws-lambda?ref=badge_shield)
+
 
 ```hcl
 module "my_lambda_function" {
@@ -92,3 +94,7 @@ module "my_lambda_function" {
 ## Terraform Versions
 
 Terraform 0.13 and later. Pin module version to ~> 2.0. Submit pull requests to `master` branch.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fshmileee%2Fterraform-aws-lambda.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fshmileee%2Fterraform-aws-lambda?ref=badge_large)
